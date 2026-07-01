@@ -7,13 +7,15 @@ Hi, I'm **Huy Nguyễn** 👋
 
 ## ⚡ GitHub Stats
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      ￼
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23030074-bit&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23030074-bit&layout=compact&theme=default)
 
 ### Languages and Tools:
 🛠️ `Python` `C++` `Git` `VS Code`
+
+---
+<p align="center">
+  ￼
+</p>
+
