@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm **Huy Nguyễn** 👋 
+===================================================================
 
-<!--
-**23030074-bit/23030074-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎯 Passion in something... (secret 🤫)
+* 💪 2026 Goals: Learning many things in Python and Logistics.
+* ⭐ Reading, listening, walking, running...
 
-Here are some ideas to get you started:
+## ⚡ GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      ￼
+    </td>
+  </tr>
+</table>
+
+### Languages and Tools:
+🛠️ `Python` `C++` `Git` `VS Code`
